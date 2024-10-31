@@ -1,5 +1,3 @@
-![alt text](https://github.com/Alvinath21/tugas2/blob/main/assets/SplashScreen.jpg?raw=true)
-
 # tugas2_mobile_lanjut
 
 A new Flutter project.
