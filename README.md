@@ -1,6 +1,10 @@
+![alt text](https://github.com/Alvinath21/tugas2/blob/main/assets/hasil.png?raw=true)
+
 # tugas2_mobile_lanjut
 
-A new Flutter project.
+Muhammad Alvin Ath Thaariq
+5210411118
+A new Flutter project
 
 ## Getting Started
 
